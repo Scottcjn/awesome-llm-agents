@@ -558,6 +558,18 @@ suggestion, feel free to open an issue or pull request. (Last updated: 2026-03-1
   - Built-in memory fabric with vector search
 
 
+- [Beacon](https://github.com/Scottcjn/beacon-skill) - Agent-to-agent ping and
+  coordination layer with optional RTC value transfer
+
+  158 stars · 75 forks · 39 contributors · 631 issues · Python · MIT
+
+  - Agent-to-agent pings for coordination and presence
+  - Optional RTC value attachments for lightweight agent payments
+  - Integrations across BoTTube, Moltbook, RustChain, and UDP bus workflows
+  - Beacon Atlas and relay network support
+  - Python skill interface for agent-native automation
+
+
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - Agentic LLM for autonomous
   data science
 
